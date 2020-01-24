@@ -1,0 +1,15 @@
+.ml2 {
+  font-weight: 900;
+  font-size: 3.5em;
+}
+
+.ml2 .letter {
+  display: inline-block;
+  line-height: 1em;
+}
+
+h1.ml2 {
+	text-align: center;
+	padding-top: 5%;
+	padding-bottom: 25px;
+}
